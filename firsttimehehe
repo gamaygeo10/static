@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Geo - My First Web Page</title>
+  <style>
+    body {
+      font-family: Verdana, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #e6f2ff;
+      color: #333;
+    }
+    header {
+      background-color: #0066cc;
+      color: white;
+      padding: 25px;
+      text-align: center;
+    }
+    main {
+      padding: 20px;
+      text-align: center;
+    }
+    footer {
+      background-color: #004080;
+      color: white;
+      text-align: center;
+      padding: 10px;
+      position: fixed;
+      width: 100%;
+      bottom: 0;
+    }
+    h1 {
+      margin-top: 0;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Welcome to Geo</h1>
+    <p>My First Web Page</p>
+  </header>
+
+  <main>
+    <p>This is the beginning of my web development journey with Geo.</p>
+    <p>I will build amazing websites!</p>
+  </main>
+
+  <footer>
+    &copy; 2025 Geo | All rights reserved.
+  </footer>
+
+</body>
+</html>
